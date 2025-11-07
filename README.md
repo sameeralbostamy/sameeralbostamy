@@ -13,14 +13,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### McMaster Enrolment Bot
-*Currently under development!*  
-A tool designed to streamline McMaster course enrolment for students.
-
----
-
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/sameer-al-bostamy](https://linkedin.com/in/sameer-al-bostamy)
