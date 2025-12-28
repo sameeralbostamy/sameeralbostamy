@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills & Interests
 
-- **Languages:** Python, C, JavaScript, HTML, CSS
+- **Languages:** Python, Java, C , HTML, CSS
 - **Fields:** Software Engineering, AI/ML, Data Science, Cybersecurity
 - **Interests:** Building cool projects, working out, playing soccer ⚽
 
