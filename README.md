@@ -39,13 +39,6 @@ I am a **Computer Science and Economics** student at **McMaster University** ('2
 `Python` `Pandas` `API Integration`
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameeralbostamy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralbostamy&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 🤝 Let's Connect
