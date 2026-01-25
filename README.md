@@ -1,4 +1,4 @@
-# Hi, I'm Sameer Albo 👋
+# Hi, I'm Sameer 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Architect;CS+%2B+Economics+at+McMaster" alt="Typing SVG" />
