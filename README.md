@@ -5,12 +5,12 @@
 </p>
 
 ### 💫 About Me
-I am a **Computer Science and Economics** student at **McMaster University** ('27). I sit at the intersection of robust software engineering and analytical economic modeling. I build tools that automate the mundane and systems that visualize the complex.
+I am a **Computer Science and Economics** student at **McMaster University** ('28). I sit at the intersection of robust software engineering and analytical economic modeling. I build tools that automate the mundane and systems that visualize the complex.
 
 - 🔭 **Currently working on:** Refining my [Portfolio Website](https://sameeralbostamy.github.io) and Vanguard-AI.
-- ⚡ **Technical Focus:** Backend Systems, Data Engineering, and Selenium Automation.
+- ⚡ **Technical Focus:** Backend Systems, SWE / Data Engineering, and Automation.
 - 🎓 **Education:** Double Major in CS & Economics @ McMaster University.
-- 🏹 **Goal:** Seeking 2026 Summer Internships in Software Engineering or Data Analytics.
+- 🏹 **Goal:** Seeking Internships in Software Engineering.
 
 ---
 
