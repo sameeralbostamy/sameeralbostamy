@@ -16,11 +16,14 @@ I am a **Computer Science and Economics** student at **McMaster University** ('2
 
 ### 🛠️ My Engineered Stack
 
-| Category | Tools & Languages |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `Java` `C` `SQL` `R` `HTML/CSS` |
-| **Data & AI** | `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Power BI` |
-| **DevOps/Tools** | `Docker` `Git` `Linux (Ubuntu)` `Selenium` `FRED API` |
+| **Languages** | `Python` `Java` `C/C++` `SQL` `HTML/CSS` |
+| **Frontend & Backend** | `React` `Flask` `REST APIs` |
+| **Data & AI** | `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Machine Learning` |
+| **Databases & Cloud** | `PostgreSQL` `MySQL` `Databricks` `Azure` |
+| **DevOps & Development** | `Docker` `Git` `GitHub` `Linux` `Selenium` |
+| **Analytics & Productivity** | `Power BI` `Jira` `Confluence` `Figma` `Excel` |
 
 ---
 
