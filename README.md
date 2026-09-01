@@ -8,7 +8,7 @@
 I am a **Computer Science and Economics** student at **McMaster University** ('28). I sit at the intersection of robust software engineering and analytical economic modeling. I build tools that automate the mundane and systems that visualize the complex.
 
 - 🔭 **Work Experience:** Currently working on data pipelines @ PepsiCo, prev TPM @ Scotiabank .
-- ⚡ **Technical Focus:** Backend Systems, SWE / Data Engineering, and Automation.
+- ⚡ **Areas of Interest:** Software Engineering, AI/ML , and Quantitative Development.
 - 🎓 **Education:** Double Major in CS & Economics @ McMaster University.
 - 🏹 **Goal:** Seeking Internships in Software Engineering.
 
