@@ -27,5 +27,5 @@ I am a **Computer Science and Economics** student at **McMaster University** ('2
 ### 🤝 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/sameer-al-bostamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-al-bostamy" height="30" width="40" /></a>
-<a href="mailto:sameeralbostamy@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" alt="sameeralbostamy@gmail.com" height="30" width="35" /></a>
+<a href="mailto:sameeralbostamywork@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" alt="sameeralbostamywork@gmail.com" height="30" width="35" /></a>
 </p>
